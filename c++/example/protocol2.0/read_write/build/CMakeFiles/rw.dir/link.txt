@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/rw.dir/read_write.cpp.o -o rw  -ldxl_x64_cpp -lrt 
