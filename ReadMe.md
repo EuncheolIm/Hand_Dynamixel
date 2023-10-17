@@ -10,4 +10,4 @@ make install
 ```
 if you execute "make", "libdxl_x64_cpp.so" is generated.
 
-And then you have to execute command "make install".
+And then you have to execute command "make install" for download to "/usr/lib".
